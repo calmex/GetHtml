@@ -1,2 +1,2 @@
 # GetHtml
-Need install .net core 3.1
+Need to install .net core 3.1
